@@ -1,0 +1,26 @@
+.hawk{
+	color:green;
+}
+.huge{
+	font-size:70px;
+}
+.fontstyle{
+	font-family:"Arial", Arial, sans-serif
+}
+.upper{
+	text-transform:uppercase;
+}
+.fixed{
+	position:fixed;
+}
+h2,p{
+	color:red;
+}
+h1 em:hover{
+	color:purple;
+}
+.skater{
+	margin: 15px 10% 15px 10%;
+	border: orange 5px dashed;
+	padding: 10px 5% 10px 5%;
+}
